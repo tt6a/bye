@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 晨涛资源网关闭的公告
 
 You can use the [editor on GitHub](https://github.com/tt6a/bye/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
